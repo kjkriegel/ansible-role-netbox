@@ -2,6 +2,7 @@
 _netbox_packages:
   - gcc
   - postgresql-devel
+  - postgresql-server-devel
   - libxml2-devel
   - libxslt-devel
   - libffi-devel
